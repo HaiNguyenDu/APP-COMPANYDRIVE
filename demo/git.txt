@@ -1,0 +1,7 @@
+git remote add origin https://gitlab.com/nguyenhien.phanhoai/pbl4.git
+git add .
+git commit -m "Initial commit"
+git push -u origin master
+---------------------
+git push
+git pull
